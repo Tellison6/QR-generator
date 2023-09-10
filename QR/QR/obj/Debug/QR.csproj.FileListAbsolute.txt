@@ -1,0 +1,13 @@
+C:\Users\özhan\Desktop\QR\QR\bin\Debug\QR.exe.config
+C:\Users\özhan\Desktop\QR\QR\bin\Debug\QR.exe
+C:\Users\özhan\Desktop\QR\QR\bin\Debug\QR.pdb
+C:\Users\özhan\Desktop\QR\QR\bin\Debug\QRCoder.dll
+C:\Users\özhan\Desktop\QR\QR\obj\Debug\QR.csproj.AssemblyReference.cache
+C:\Users\özhan\Desktop\QR\QR\obj\Debug\QR.csproj.SuggestedBindingRedirects.cache
+C:\Users\özhan\Desktop\QR\QR\obj\Debug\QR.Form1.resources
+C:\Users\özhan\Desktop\QR\QR\obj\Debug\QR.Properties.Resources.resources
+C:\Users\özhan\Desktop\QR\QR\obj\Debug\QR.csproj.GenerateResource.cache
+C:\Users\özhan\Desktop\QR\QR\obj\Debug\QR.csproj.CoreCompileInputs.cache
+C:\Users\özhan\Desktop\QR\QR\obj\Debug\QR.csproj.CopyComplete
+C:\Users\özhan\Desktop\QR\QR\obj\Debug\QR.exe
+C:\Users\özhan\Desktop\QR\QR\obj\Debug\QR.pdb
